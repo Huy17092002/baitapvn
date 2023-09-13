@@ -1,5 +1,4 @@
 //ý1
-//ý1
 void main(List<String> args) {
   // Khai báo Non-Nullable Types
   int a = 10;
