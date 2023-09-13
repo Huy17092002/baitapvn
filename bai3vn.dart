@@ -9,5 +9,5 @@ int giaithua(int num) {
 void main() {
   var num = 6;
   var fact = giaithua(num);
-  print("Giai thừa $num là: ${giaithua}");
+  print("Giai thừa $num là: ${fact}");
 }
